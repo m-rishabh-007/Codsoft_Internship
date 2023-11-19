@@ -1,2 +1,2 @@
 # Codsoft_Internship
-this repo incldues the task given during the internship
+this repo includes the task given during the codsoft internship
